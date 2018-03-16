@@ -1,0 +1,10 @@
+com/hxiloj/base/security/service/impl/CustomUserDetailsService.class
+com/hxiloj/base/security/config/SecurityInitializer.class
+com/hxiloj/base/security/util/CsrfCookieGeneratorFilter.class
+com/hxiloj/test/Student.class
+com/hxiloj/base/security/config/WebAppInitializer.class
+com/hxiloj/test/StudentService.class
+com/hxiloj/test/DataScrollerBean.class
+com/hxiloj/base/security/util/UtilClass.class
+com/hxiloj/base/security/config/SecurityConfig.class
+com/hxiloj/base/security/model/AppUserDetails.class
