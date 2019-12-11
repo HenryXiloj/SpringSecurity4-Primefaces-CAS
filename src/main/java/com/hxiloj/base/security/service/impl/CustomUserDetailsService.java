@@ -31,7 +31,7 @@ public class CustomUserDetailsService implements AuthenticationUserDetailsServic
 		}
 		else
 		{
-			 throw new UsernameNotFoundException("USUARIO NO EXISTE");
+			 throw new UsernameNotFoundException("USER DOESN'T EXIST");
 		}
 		
 	}
